@@ -1,0 +1,1 @@
+# helm repo of freiheit-com/kuberpult using private gh pages
