@@ -14,7 +14,7 @@ permissions:
 env:
   SOURCE_REPO: "freiheit-com/kuberpult"
   TARGET_BRANCH: "gh-pages"
-  PAGES_URL: "https://raw.githubusercontent.com/edeka-digital/kuberpult/gh-pages/"
+  PAGES_URL: "https://raw.githubusercontent.com/jonas-budde/kuberpult-private-helm-repository/gh-pages/"
 
 jobs:
   sync:
