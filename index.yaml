@@ -1,0 +1,184 @@
+apiVersion: v1
+entries:
+  kuberpult:
+  - apiVersion: v2
+    appVersion: v13.33.5
+    created: "2025-10-17T06:31:09.838608458Z"
+    dependencies:
+    - condition: auth.dexAuth.installDex
+      name: dex
+      repository: https://charts.dexidp.io
+      version: 0.17.1
+    description: freiheit.com contiuous delivery
+    digest: 92107fdfbbdfa3f4b959c34927f8de84d4a5ee623687d1e14fa055afe615f733
+    maintainers:
+    - name: hannesg
+    - name: sven-urbanski-freiheit-com
+    name: kuberpult
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/edeka-digital/kuberpult/gh-pages/kuberpult-v13.33.5.tgz
+    version: v13.33.5
+  - apiVersion: v2
+    appVersion: v13.33.4
+    created: "2025-10-17T06:31:09.83512022Z"
+    dependencies:
+    - condition: auth.dexAuth.installDex
+      name: dex
+      repository: https://charts.dexidp.io
+      version: 0.17.1
+    description: freiheit.com contiuous delivery
+    digest: 70627589d4a11c33dcc9173eb0e859e2221399e01146155a4c62003d9c35a982
+    maintainers:
+    - name: hannesg
+    - name: sven-urbanski-freiheit-com
+    name: kuberpult
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/edeka-digital/kuberpult/gh-pages/kuberpult-v13.33.4.tgz
+    version: v13.33.4
+  - apiVersion: v2
+    appVersion: v13.33.1
+    created: "2025-10-17T06:31:09.832258352Z"
+    dependencies:
+    - condition: auth.dexAuth.installDex
+      name: dex
+      repository: https://charts.dexidp.io
+      version: 0.17.1
+    description: freiheit.com contiuous delivery
+    digest: 318f56f0998bf0c965da0a19e0976d7f527238bdf6528c5525ecdb31be0f0b19
+    maintainers:
+    - name: hannesg
+    - name: sven-urbanski-freiheit-com
+    name: kuberpult
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/edeka-digital/kuberpult/gh-pages/kuberpult-v13.33.1.tgz
+    version: v13.33.1
+  - apiVersion: v2
+    appVersion: v13.32.0
+    created: "2025-10-17T06:31:09.82942143Z"
+    dependencies:
+    - condition: auth.dexAuth.installDex
+      name: dex
+      repository: https://charts.dexidp.io
+      version: 0.17.1
+    description: freiheit.com contiuous delivery
+    digest: c2863b1baddce364c15018ccec734314bacdcef87cdbc0346e3040ddf7ad4acb
+    maintainers:
+    - name: hannesg
+    - name: sven-urbanski-freiheit-com
+    name: kuberpult
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/edeka-digital/kuberpult/gh-pages/kuberpult-v13.32.0.tgz
+    version: v13.32.0
+  - apiVersion: v2
+    appVersion: v13.31.1
+    created: "2025-10-17T06:31:09.824405913Z"
+    dependencies:
+    - condition: auth.dexAuth.installDex
+      name: dex
+      repository: https://charts.dexidp.io
+      version: 0.17.1
+    description: freiheit.com contiuous delivery
+    digest: 15705f27df2d54f449c5a5f58b221b7163e30ad9f3e6edfa5701cd4f3e7b0b77
+    maintainers:
+    - name: hannesg
+    - name: sven-urbanski-freiheit-com
+    name: kuberpult
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/edeka-digital/kuberpult/gh-pages/kuberpult-v13.31.1.tgz
+    version: v13.31.1
+  - apiVersion: v2
+    appVersion: v13.31.0
+    created: "2025-10-17T06:31:09.821010953Z"
+    dependencies:
+    - condition: auth.dexAuth.installDex
+      name: dex
+      repository: https://charts.dexidp.io
+      version: 0.17.1
+    description: freiheit.com contiuous delivery
+    digest: f39048c646fc0642ad42ae7b47754dd8cfc8e76693bd77ae9ea6af37ba55f450
+    maintainers:
+    - name: hannesg
+    - name: sven-urbanski-freiheit-com
+    name: kuberpult
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/edeka-digital/kuberpult/gh-pages/kuberpult-v13.31.0.tgz
+    version: v13.31.0
+  - apiVersion: v2
+    appVersion: v13.26.1
+    created: "2025-10-17T06:31:09.817471362Z"
+    dependencies:
+    - condition: auth.dexAuth.installDex
+      name: dex
+      repository: https://charts.dexidp.io
+      version: 0.17.1
+    description: freiheit.com contiuous delivery
+    digest: 57d3bfbf42f49e4cafd07532010a7f180d6e65a33c09d853a982a5f602d3bbc2
+    maintainers:
+    - name: hannesg
+    - name: sven-urbanski-freiheit-com
+    name: kuberpult
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/edeka-digital/kuberpult/gh-pages/kuberpult-v13.26.1.tgz
+    version: v13.26.1
+  - apiVersion: v2
+    appVersion: v13.24.0
+    created: "2025-10-17T06:31:09.814513225Z"
+    dependencies:
+    - condition: auth.dexAuth.installDex
+      name: dex
+      repository: https://charts.dexidp.io
+      version: 0.17.1
+    description: freiheit.com contiuous delivery
+    digest: 3a37ba20b8af5d63c2b3d9e1927b7f1f09ea5883232b89b8378c059aa2ec5ed4
+    maintainers:
+    - name: hannesg
+    - name: sven-urbanski-freiheit-com
+    name: kuberpult
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/edeka-digital/kuberpult/gh-pages/kuberpult-v13.24.0.tgz
+    version: v13.24.0
+  - apiVersion: v2
+    appVersion: v13.21.0
+    created: "2025-10-17T06:31:09.811736285Z"
+    dependencies:
+    - condition: auth.dexAuth.installDex
+      name: dex
+      repository: https://charts.dexidp.io
+      version: 0.17.1
+    description: freiheit.com contiuous delivery
+    digest: a8b2ec56b4d429b38809be864cd9f01fe6b110f3d1b0abc36195c1ea5c7395ba
+    maintainers:
+    - name: hannesg
+    - name: sven-urbanski-freiheit-com
+    name: kuberpult
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/edeka-digital/kuberpult/gh-pages/kuberpult-v13.21.0.tgz
+    version: v13.21.0
+  - apiVersion: v2
+    appVersion: v13.20.1
+    created: "2025-10-17T06:31:09.807947945Z"
+    dependencies:
+    - condition: auth.dexAuth.installDex
+      name: dex
+      repository: https://charts.dexidp.io
+      version: 0.17.1
+    description: freiheit.com contiuous delivery
+    digest: db61978d909a690428e5664d081363c40fe85517efa4f458f3eb6ebd583ed978
+    maintainers:
+    - name: hannesg
+    - name: sven-urbanski-freiheit-com
+    name: kuberpult
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/edeka-digital/kuberpult/gh-pages/kuberpult-v13.20.1.tgz
+    version: v13.20.1
+generated: "2025-10-17T06:31:09.804902405Z"
