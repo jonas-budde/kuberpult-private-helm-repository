@@ -3,7 +3,7 @@ entries:
   kuberpult:
   - apiVersion: v2
     appVersion: v13.55.15
-    created: "2026-08-27T08:49:43.049798291Z"
+    created: "2026-08-28T11:02:47.814804664Z"
     dependencies:
     - condition: auth.dexAuth.installDex
       name: dex
@@ -21,7 +21,7 @@ entries:
     version: v13.55.15
   - apiVersion: v2
     appVersion: v13.55.14
-    created: "2026-08-27T08:49:43.046605835Z"
+    created: "2026-08-28T11:02:47.811645668Z"
     dependencies:
     - condition: auth.dexAuth.installDex
       name: dex
@@ -39,7 +39,7 @@ entries:
     version: v13.55.14
   - apiVersion: v2
     appVersion: v13.55.7
-    created: "2026-08-27T08:49:43.053945748Z"
+    created: "2026-08-28T11:02:47.81902688Z"
     dependencies:
     - condition: auth.dexAuth.installDex
       name: dex
@@ -57,7 +57,7 @@ entries:
     version: v13.55.7
   - apiVersion: v2
     appVersion: v13.55.0
-    created: "2026-08-27T08:49:43.042422744Z"
+    created: "2026-08-28T11:02:47.807547162Z"
     dependencies:
     - condition: auth.dexAuth.installDex
       name: dex
@@ -75,7 +75,7 @@ entries:
     version: v13.55.0
   - apiVersion: v2
     appVersion: v13.53.3
-    created: "2026-08-27T08:49:43.039228896Z"
+    created: "2026-08-28T11:02:47.804411431Z"
     dependencies:
     - condition: auth.dexAuth.installDex
       name: dex
@@ -93,7 +93,7 @@ entries:
     version: v13.53.3
   - apiVersion: v2
     appVersion: v13.53.1
-    created: "2026-08-27T08:49:43.035415092Z"
+    created: "2026-08-28T11:02:47.800506386Z"
     dependencies:
     - condition: auth.dexAuth.installDex
       name: dex
@@ -111,7 +111,7 @@ entries:
     version: v13.53.1
   - apiVersion: v2
     appVersion: v13.52.18
-    created: "2026-08-27T08:49:43.032227774Z"
+    created: "2026-08-28T11:02:47.79741388Z"
     dependencies:
     - condition: auth.dexAuth.installDex
       name: dex
@@ -129,7 +129,7 @@ entries:
     version: v13.52.18
   - apiVersion: v2
     appVersion: v13.48.0
-    created: "2026-08-27T08:49:43.02905017Z"
+    created: "2026-08-28T11:02:47.794128156Z"
     dependencies:
     - condition: auth.dexAuth.installDex
       name: dex
@@ -147,7 +147,7 @@ entries:
     version: v13.48.0
   - apiVersion: v2
     appVersion: v13.47.0
-    created: "2026-08-27T08:49:43.02490108Z"
+    created: "2026-08-28T11:02:47.79014826Z"
     dependencies:
     - condition: auth.dexAuth.installDex
       name: dex
@@ -165,7 +165,7 @@ entries:
     version: v13.47.0
   - apiVersion: v2
     appVersion: v13.46.22
-    created: "2026-08-27T08:49:43.017970094Z"
+    created: "2026-08-28T11:02:47.782897162Z"
     dependencies:
     - condition: auth.dexAuth.installDex
       name: dex
@@ -183,7 +183,7 @@ entries:
     version: v13.46.22
   - apiVersion: v2
     appVersion: v13.46.4
-    created: "2026-08-27T08:49:43.02179896Z"
+    created: "2026-08-28T11:02:47.786977136Z"
     dependencies:
     - condition: auth.dexAuth.installDex
       name: dex
@@ -201,7 +201,7 @@ entries:
     version: v13.46.4
   - apiVersion: v2
     appVersion: v13.43.3
-    created: "2026-08-27T08:49:43.014899652Z"
+    created: "2026-08-28T11:02:47.779875781Z"
     dependencies:
     - condition: auth.dexAuth.installDex
       name: dex
@@ -219,7 +219,7 @@ entries:
     version: v13.43.3
   - apiVersion: v2
     appVersion: v13.40.2
-    created: "2026-08-27T08:49:43.01094785Z"
+    created: "2026-08-28T11:02:47.77589602Z"
     dependencies:
     - condition: auth.dexAuth.installDex
       name: dex
@@ -237,7 +237,7 @@ entries:
     version: v13.40.2
   - apiVersion: v2
     appVersion: v13.39.14
-    created: "2026-08-27T08:49:43.004873556Z"
+    created: "2026-08-28T11:02:47.769300682Z"
     dependencies:
     - condition: auth.dexAuth.installDex
       name: dex
@@ -255,7 +255,7 @@ entries:
     version: v13.39.14
   - apiVersion: v2
     appVersion: v13.39.8
-    created: "2026-08-27T08:49:43.007918239Z"
+    created: "2026-08-28T11:02:47.772857444Z"
     dependencies:
     - condition: auth.dexAuth.installDex
       name: dex
@@ -273,7 +273,7 @@ entries:
     version: v13.39.8
   - apiVersion: v2
     appVersion: v13.35.3
-    created: "2026-08-27T08:49:43.000785754Z"
+    created: "2026-08-28T11:02:47.766129508Z"
     dependencies:
     - condition: auth.dexAuth.installDex
       name: dex
@@ -291,7 +291,7 @@ entries:
     version: v13.35.3
   - apiVersion: v2
     appVersion: v13.35.2
-    created: "2026-08-27T08:49:42.997785938Z"
+    created: "2026-08-28T11:02:47.76308933Z"
     dependencies:
     - condition: auth.dexAuth.installDex
       name: dex
@@ -309,7 +309,7 @@ entries:
     version: v13.35.2
   - apiVersion: v2
     appVersion: v13.33.5
-    created: "2026-08-27T08:49:42.993810666Z"
+    created: "2026-08-28T11:02:47.759188576Z"
     dependencies:
     - condition: auth.dexAuth.installDex
       name: dex
@@ -327,7 +327,7 @@ entries:
     version: v13.33.5
   - apiVersion: v2
     appVersion: v13.33.4
-    created: "2026-08-27T08:49:42.990700825Z"
+    created: "2026-08-28T11:02:47.756123671Z"
     dependencies:
     - condition: auth.dexAuth.installDex
       name: dex
@@ -345,7 +345,7 @@ entries:
     version: v13.33.4
   - apiVersion: v2
     appVersion: v13.33.1
-    created: "2026-08-27T08:49:42.986903381Z"
+    created: "2026-08-28T11:02:47.752200058Z"
     dependencies:
     - condition: auth.dexAuth.installDex
       name: dex
@@ -363,7 +363,7 @@ entries:
     version: v13.33.1
   - apiVersion: v2
     appVersion: v13.32.0
-    created: "2026-08-27T08:49:42.983887571Z"
+    created: "2026-08-28T11:02:47.749213539Z"
     dependencies:
     - condition: auth.dexAuth.installDex
       name: dex
@@ -381,7 +381,7 @@ entries:
     version: v13.32.0
   - apiVersion: v2
     appVersion: v13.31.1
-    created: "2026-08-27T08:49:42.979921533Z"
+    created: "2026-08-28T11:02:47.745399756Z"
     dependencies:
     - condition: auth.dexAuth.installDex
       name: dex
@@ -399,7 +399,7 @@ entries:
     version: v13.31.1
   - apiVersion: v2
     appVersion: v13.31.0
-    created: "2026-08-27T08:49:42.976792072Z"
+    created: "2026-08-28T11:02:47.742379767Z"
     dependencies:
     - condition: auth.dexAuth.installDex
       name: dex
@@ -417,7 +417,7 @@ entries:
     version: v13.31.0
   - apiVersion: v2
     appVersion: v13.26.1
-    created: "2026-08-27T08:49:42.973045941Z"
+    created: "2026-08-28T11:02:47.738879919Z"
     dependencies:
     - condition: auth.dexAuth.installDex
       name: dex
@@ -435,7 +435,7 @@ entries:
     version: v13.26.1
   - apiVersion: v2
     appVersion: v13.24.0
-    created: "2026-08-27T08:49:42.969891442Z"
+    created: "2026-08-28T11:02:47.735653118Z"
     dependencies:
     - condition: auth.dexAuth.installDex
       name: dex
@@ -453,7 +453,7 @@ entries:
     version: v13.24.0
   - apiVersion: v2
     appVersion: v13.21.0
-    created: "2026-08-27T08:49:42.966805566Z"
+    created: "2026-08-28T11:02:47.732596555Z"
     dependencies:
     - condition: auth.dexAuth.installDex
       name: dex
@@ -471,7 +471,7 @@ entries:
     version: v13.21.0
   - apiVersion: v2
     appVersion: v13.20.1
-    created: "2026-08-27T08:49:42.962848681Z"
+    created: "2026-08-28T11:02:47.72848601Z"
     dependencies:
     - condition: auth.dexAuth.installDex
       name: dex
@@ -487,4 +487,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/jonas-budde/kuberpult-private-helm-repository/gh-pages/kuberpult-v13.20.1.tgz
     version: v13.20.1
-generated: "2026-08-27T08:49:42.959526219Z"
+generated: "2026-08-28T11:02:47.72506864Z"
